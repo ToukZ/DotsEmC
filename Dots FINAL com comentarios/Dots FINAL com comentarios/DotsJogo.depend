@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1561984690 source:c:\users\sofia alencar\desktop\dots att com comentarios\main.c
+	"declaraFuncoes.h"
+
+1562175581 c:\users\sofia alencar\desktop\dots att com comentarios\declarafuncoes.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+
+1562176247 source:c:\users\sofia alencar\desktop\dots att com comentarios\confmenu.c
+	"declaraFuncoes.h"
+
+1562171501 source:c:\users\sofia alencar\desktop\dots att com comentarios\jogojogavel.c
+	"declaraFuncoes.h"
+
+1562174435 source:c:\users\sofia alencar\desktop\dots att com comentarios\funcoesestetica.c
+	"declaraFuncoes.h"
+
+1561984690 source:c:\users\sofia alencar\desktop\dots final com comentarios\main.c
+	"declaraFuncoes.h"
+
+1562175581 c:\users\sofia alencar\desktop\dots final com comentarios\declarafuncoes.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+
+1562176612 source:c:\users\sofia alencar\desktop\dots final com comentarios\funcoesestetica.c
+	"declaraFuncoes.h"
+
+1562176607 source:c:\users\sofia alencar\desktop\dots final com comentarios\jogojogavel.c
+	"declaraFuncoes.h"
+
+1562177894 source:c:\users\sofia alencar\desktop\dots final com comentarios\confmenu.c
+	"declaraFuncoes.h"
+

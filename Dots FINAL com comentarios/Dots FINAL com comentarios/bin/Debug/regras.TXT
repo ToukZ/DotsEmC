@@ -1,0 +1,11 @@
+Seu objetivo eh formar mais Quadrados que o seu oponente.
+Para se movimentar, utilize WASD ou as Setas Direcionais.
+Para realizar uma acao, selecione um local entre pontos com Espaco ou Enter, se o espaco estiver vazio, uma linha serah feita.
+Cada jogador reveza em turnos a construcao de linhas no tabuleiro, ateh que nao haja mais linhas para serem feitas.
+Quando 4 linhas formam um quadrado, eh conquistado um ponto ao jogador que o realizou, permitindo este jogar novamente.
+
+-Bom Divertimento!
+
+
+
+
